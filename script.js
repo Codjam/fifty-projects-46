@@ -16,7 +16,7 @@ const quizData = [
   correct: "c",
   },
   {
-  question: "Making is hat stage of the wort made?",
+  question: "The wort is what stage of beer making?",
   a: "Beginning",
   b: "Middle",
   c: "End",
