@@ -10,13 +10,13 @@ const quizData = [
   {
   question: "What is XinFin?",
   a: "Ripple token",
-  b: "Satoshi Nakamoto's brother",
+  b: "Satoshi's brother",
   c: "Hybrid Blockchain",
   d: "JavaScript framework",
   correct: "c",
   },
   {
-  question: "What part of the beer making stage is the wort made?",
+  question: "Making is hat stage of the wort made?",
   a: "Beginning",
   b: "Middle",
   c: "End",
@@ -24,7 +24,7 @@ const quizData = [
   correct: "a",
   },
   {
-  question: "Finnish: Who let the doggs out?",
+  question: "Finnish: Who let the doggs out...",
   a: "You",
   b: "Me",
   c: "A cat",
